@@ -1,0 +1,16 @@
+{
+  "name": "cra-template-andressanro",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "AndresSanRo´s custom create react app template",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
